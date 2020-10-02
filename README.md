@@ -2,6 +2,7 @@ README
 
 gl3dv - 3D mesh viewer version 1.2
 by George Litos (gl@cyberpunk.gr)
+based on Coin3D https://github.com/coin3d/coin
 
 Command Line Options
 ==================================================================================
