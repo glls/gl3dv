@@ -1,8 +1,10 @@
-gl3dv - 3D mesh viewer version 1.2
+# gl3dv - 3D mesh viewer version 1.2
+
 by George Litos (gl@cyberpunk.gr)
+
 based on Coin3D https://github.com/coin3d/coin
 
-WARNING - old code base (last compiled on 2008)
+`WARNING - old code base (last compiled on 2008)`
 
 Command Line Options
 ==================================================================================
