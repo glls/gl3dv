@@ -2,9 +2,9 @@
 
 by George Litos (gl@cyberpunk.gr)
 
-based on Coin3D https://github.com/coin3d/coin
+based on [Coin3D](https://github.com/coin3d)
 
-`WARNING - old code base (last compiled on 2008)`
+> WARNING - old code base (last compiled on 2008) 
 
 Command Line Options
 ==================================================================================
