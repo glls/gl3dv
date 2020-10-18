@@ -45,6 +45,7 @@ filename:
 
 ## GUI Options
 
+```
 [i]		diplay information panel [OSD]
 [s]		save snapshot in JPEG format (default filaneme: snapshot.jpg in current directory)
 [p]		save snapshot in PNG format (supports transparency)
@@ -58,7 +59,7 @@ filename:
 		saves image sequence when rotating (frame0xxx.png)
 
 Right mouse button menu brings up various self explanatory display options.
-
+```
 
 ## Feedback
 
