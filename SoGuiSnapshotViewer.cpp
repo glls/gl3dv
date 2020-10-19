@@ -19,9 +19,9 @@
  *
 \**************************************************************************/
 /*
- * iti3dv - 3D mesh viewer based on COIN3D examples (snapshotviewer)
+ * gl3dv - 3D mesh viewer based on COIN3D examples (snapshotviewer)
  *
- * George Litos (gl@iti.gr)
+ * George Litos (gl@cyberpunk.gr)
  *
 \**************************************************************************/
 

@@ -19,9 +19,9 @@
  *
 \**************************************************************************/
 /*
- * iti3dv - 3D mesh viewer based on COIN3D examples (snapshotviewer)
+ * gl3dv - 3D mesh viewer based on COIN3D examples (snapshotviewer)
  *
- * George Litos (gl@iti.gr)
+ * George Litos (gl@cyberpunk.gr)
  *
 \**************************************************************************/
 
@@ -228,7 +228,7 @@ SoNode
 		else if ( ! strcmp( argv[1], "--text3" ) )
 		{
 			SoText3 * textnode = new SoText3;
-			const char * s[] = { "www", "ITI", "gr" };
+			const char * s[] = { "www", "georgelitos", "com" };
 			textnode->string.setValues( 0, 3, s );
 			textnode->parts.setValue( SoText3::ALL );
 			textnode->justification = SoText3::CENTER;
@@ -259,7 +259,7 @@ SoNode
 		default:
 		*/
 			SoText3 * textnode = new SoText3;
-			const char * s[] = { "www", "ITI", "gr" };
+			const char * s[] = { "www", "georgelitos", "com" };
 			textnode->string.setValues( 0, 3, s );
 			textnode->parts.setValue( SoText3::ALL );
 			textnode->justification = SoText3::CENTER;
