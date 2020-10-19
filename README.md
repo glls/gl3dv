@@ -1,12 +1,10 @@
-# gl3dv - 3D mesh viewer (version 1.2)
+# gl3dv - 3D mesh viewer v1.2
 
 by George Litos (gl@cyberpunk.gr)
 
 based on [Coin3D](https://github.com/coin3d)
 
-
 > WARNING - old code base (last compiled on 2008) 
-
 
 ## Command Line Options
 
@@ -64,4 +62,3 @@ Right mouse button menu brings up various self explanatory display options.
 ## Feedback
 
 For support, bugs, recommendations etc. check https://github.com/glls/gl3dv
-
