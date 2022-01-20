@@ -1,7 +1,7 @@
 # Installation
 
 Tested on Windows 2010 with VS 2019 Express, 
-sources used : [Boost 1.7](boost_1_74_0.7z), [Coin3D](https://github.com/coin3d/coin) and [SoWin](https://github.com/coin3d/sowin) from GitHub
+sources used : [Boost 1.74,0](https://sourceforge.net/projects/boost/files/boost-binaries/), [Coin3D](https://github.com/coin3d/coin) and [SoWin](https://github.com/coin3d/sowin) from GitHub
 
 
 ## install Coin3D
